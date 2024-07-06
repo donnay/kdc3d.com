@@ -17,7 +17,7 @@ sections:
         height: screen
         width: narrow
         padding:
-          - pt-28
+          - pt-3
           - pb-28
           - pl-4
           - pr-4
