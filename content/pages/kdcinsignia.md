@@ -6,7 +6,7 @@ sections:
     title: Coming Soon!
     subtitle: ''
     actions: []
-    colors: colors-d
+    colors: colors-a
     backgroundSize: full
     elementId: ''
     styles:
