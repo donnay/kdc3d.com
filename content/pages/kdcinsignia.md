@@ -9,7 +9,7 @@ sections:
     subtitle: The section subtitle
     text: >+
       <iframe id="vs_iframe"
-      src="https://www.viewstl.com/?embedded&bgcolor=black&color=white&shading=flat&clean=yes&url=%2Fpublic%2Fimages%2FKDC-Insignia.stl"
+      src="https://www.viewstl.com/?embedded&bgcolor=black&color=white&shading=flat&clean=yes&url=/public/images/KDC-Insignia.stl"
       style="border:0;margin:0;width:100%;height:100%;"></iframe>
 
     elementId: ''
