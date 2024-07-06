@@ -7,13 +7,11 @@ sections:
     variant: variant-a
     title: The Section Title
     subtitle: The section subtitle
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      \<iframe id="vs\_iframe"
+      src="https\://www\.viewstl.com/?embedded\&bgcolor=black\&color=white\&shading=flat\&clean=yes\&url=https%3A%2F%2Fgithub.com%2Fdonnay%2Fkdc3d.com%2Fblob%2Fmain%2Fpublic%2Fimages%2FKDC-Insignia.stl"
+      style="border:0;margin:0;width:100%;height:100%;">\</iframe>
+
     elementId: ''
     styles:
       self:
