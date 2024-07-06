@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: ''
-    subtitle: The section subtitle
+    subtitle: ''
     text: >+
       <iframe id="vs_iframe"
       src="https://www.viewstl.com/?embedded&bgcolor=black&color=white&shading=flat&clean=yes&url=/public/images/KDC-Insignia.stl"
