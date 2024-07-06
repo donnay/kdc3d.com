@@ -2,32 +2,37 @@
 type: PageLayout
 title: kdcinsignia
 sections:
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: ''
+  - type: HeroSection
+    title: Coming Soon!
     subtitle: ''
-    text: >-
-      <iframe id="vs_iframe"
-      src="https://www.viewstl.com/?embedded&bgcolor=black&color=white&shading=flat&clean=yes&url=https%3A%2F%2Fkdc3d.netlify.app%2Fimages%2FKDC-insignia.stl"
-      style="border:0;margin:0;width:100%;height:100%;"></iframe>
+    actions: []
+    colors: colors-a
+    backgroundSize: full
     elementId: ''
     styles:
       self:
-        height: screen
-        width: full
+        height: auto
+        width: wide
         padding:
-          - pt-3
-          - pb-3
+          - pt-36
+          - pb-48
           - pl-4
           - pr-4
+        alignItems: center
         justifyContent: center
+        flexDirection: row-reverse
       title:
-        textAlign: center
+        textAlign: left
       subtitle:
-        textAlign: center
+        textAlign: left
       text:
-        textAlign: center
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    text: >
+      <iframe id="vs_iframe"
+      src="https://www.viewstl.com/?embedded&bgcolor=black&color=white&shading=flat&clean=yes&url=https%3A%2F%2Fkdc3d.netlify.app%2Fimages%2FKDC-insignia.stl"
+      style="border:0;margin:0;width:100%;height:100%;"></iframe>
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
