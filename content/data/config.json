@@ -6,7 +6,7 @@
         "headerVariant": "variant-c",
         "isSticky": false,
         "title": "KDC3D.com",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
